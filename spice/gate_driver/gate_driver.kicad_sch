@@ -1176,7 +1176,7 @@
 		)
 		(uuid "783a223d-fcd2-4b8d-84e5-0d2f452634e7")
 	)
-	(text ".tran 10.0n 400u\n.options method=gear abstol=1e-8 reltol=0.01"
+	(text ".tran 10.0n 400u\n.options method=gear abstol=1e-7 reltol=0.01"
 		(exclude_from_sim no)
 		(at 132.08 61.468 0)
 		(effects
@@ -2761,7 +2761,7 @@
 				(justify right)
 			)
 		)
-		(property "Sim.Params" "is=23.4p rs=0 n=3.94"
+		(property "Sim.Params" "is=23.4p rs=0 n=3.94 cjo=0"
 			(at 189.23 115.57 0)
 			(effects
 				(font

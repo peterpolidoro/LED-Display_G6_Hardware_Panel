@@ -3214,6 +3214,16 @@
 		)
 		(uuid "1835c6d3-a46f-4154-bfdc-60f900566fe4")
 	)
+	(text "Note: Add series termination resistor (33 Ohm) to MISO"
+		(exclude_from_sim no)
+		(at 295.91 164.338 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3df00ff1-6010-4349-aa93-17ea0b0daff4")
+	)
 	(text "Secondary PSRAM"
 		(exclude_from_sim no)
 		(at 51.816 38.354 0)
