@@ -6,7 +6,7 @@
 	(paper "User" 457.2 457.2)
 	(title_block
 		(title "G6 panel 45mm RP2354")
-		(date "2026-04-02")
+		(date "2026-04-03")
 		(rev "v0.2.0")
 		(company "IORodeo for Reiserlab @ Janelia")
 	)
@@ -8726,7 +8726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 295.91 0)
 			(effects
 				(font
@@ -8879,7 +8879,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 222.25 0)
 			(effects
 				(font
@@ -9346,7 +9346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 158.75 0)
 			(effects
 				(font
@@ -9497,7 +9497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 90.17 0)
 			(effects
 				(font
@@ -9780,7 +9780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 119.38 0)
 			(effects
 				(font
@@ -9924,7 +9924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 85.09 0)
 			(effects
 				(font
@@ -10263,7 +10263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric_C70"
 			(at 382.5748 173.99 0)
 			(effects
 				(font
@@ -10340,7 +10340,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 261.62 0)
 			(effects
 				(font
@@ -10491,7 +10491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 330.2 0)
 			(effects
 				(font
@@ -10642,7 +10642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 295.91 0)
 			(effects
 				(font
@@ -11053,7 +11053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 364.49 0)
 			(effects
 				(font
@@ -11269,7 +11269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 124.46 0)
 			(effects
 				(font
@@ -11357,7 +11357,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 359.41 0)
 			(effects
 				(font
@@ -11566,7 +11566,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 359.41 0)
 			(effects
 				(font
@@ -11710,7 +11710,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 50.8 0)
 			(effects
 				(font
@@ -11789,7 +11789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric_C61"
 			(at 382.5748 62.23 0)
 			(effects
 				(font
@@ -11866,7 +11866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 227.33 0)
 			(effects
 				(font
@@ -12019,7 +12019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 153.67 0)
 			(effects
 				(font
@@ -12163,7 +12163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 85.09 0)
 			(effects
 				(font
@@ -12305,7 +12305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 364.49 0)
 			(effects
 				(font
@@ -12391,7 +12391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 55.88 0)
 			(effects
 				(font
@@ -12477,7 +12477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 90.17 0)
 			(effects
 				(font
@@ -12565,7 +12565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 325.12 0)
 			(effects
 				(font
@@ -12709,7 +12709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 344.17 0)
 			(effects
 				(font
@@ -12853,7 +12853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 288.29 0)
 			(effects
 				(font
@@ -12930,7 +12930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 295.91 0)
 			(effects
 				(font
@@ -13148,7 +13148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 256.54 0)
 			(effects
 				(font
@@ -13225,7 +13225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 364.49 0)
 			(effects
 				(font
@@ -13313,7 +13313,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 325.12 0)
 			(effects
 				(font
@@ -13392,7 +13392,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 119.38 0)
 			(effects
 				(font
@@ -13664,7 +13664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 364.49 0)
 			(effects
 				(font
@@ -13817,7 +13817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 85.09 0)
 			(effects
 				(font
@@ -13959,7 +13959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 124.46 0)
 			(effects
 				(font
@@ -14047,7 +14047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 290.83 0)
 			(effects
 				(font
@@ -14321,7 +14321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 256.54 0)
 			(effects
 				(font
@@ -14400,7 +14400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 359.41 0)
 			(effects
 				(font
@@ -14477,7 +14477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 330.2 0)
 			(effects
 				(font
@@ -14628,7 +14628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 193.04 0)
 			(effects
 				(font
@@ -14781,7 +14781,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 316.23 0)
 			(effects
 				(font
@@ -15055,7 +15055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 222.25 0)
 			(effects
 				(font
@@ -15199,7 +15199,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 153.67 0)
 			(effects
 				(font
@@ -15276,7 +15276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 261.62 0)
 			(effects
 				(font
@@ -15494,7 +15494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 290.83 0)
 			(effects
 				(font
@@ -15638,7 +15638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 153.67 0)
 			(effects
 				(font
@@ -15780,7 +15780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 193.04 0)
 			(effects
 				(font
@@ -15933,7 +15933,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 410.5148 146.05 0)
 			(effects
 				(font
@@ -16142,7 +16142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 372.11 0)
 			(effects
 				(font
@@ -16219,7 +16219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 227.33 0)
 			(effects
 				(font
@@ -16305,7 +16305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 295.91 0)
 			(effects
 				(font
@@ -16391,7 +16391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 227.33 0)
 			(effects
 				(font
@@ -16542,7 +16542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 55.88 0)
 			(effects
 				(font
@@ -16630,7 +16630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 50.8 0)
 			(effects
 				(font
@@ -16839,7 +16839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 146.05 0)
 			(effects
 				(font
@@ -16918,7 +16918,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 290.83 0)
 			(effects
 				(font
@@ -16995,7 +16995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 55.88 0)
 			(effects
 				(font
@@ -17081,7 +17081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 330.2 0)
 			(effects
 				(font
@@ -17169,7 +17169,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 119.38 0)
 			(effects
 				(font
@@ -17246,7 +17246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 158.75 0)
 			(effects
 				(font
@@ -17462,7 +17462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 76.2 90.17 0)
 			(effects
 				(font
@@ -17550,7 +17550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 187.96 0)
 			(effects
 				(font
@@ -17822,7 +17822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 124.46 0)
 			(effects
 				(font
@@ -17910,7 +17910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 410.5148 62.23 0)
 			(effects
 				(font
@@ -17989,7 +17989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 118.11 0)
 			(effects
 				(font
@@ -18328,7 +18328,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 256.54 0)
 			(effects
 				(font
@@ -18405,7 +18405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 261.62 0)
 			(effects
 				(font
@@ -18623,7 +18623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 290.83 0)
 			(effects
 				(font
@@ -18702,7 +18702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 410.5148 118.11 0)
 			(effects
 				(font
@@ -18781,7 +18781,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 119.38 0)
 			(effects
 				(font
@@ -18858,7 +18858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 227.33 0)
 			(effects
 				(font
@@ -19139,7 +19139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 193.04 0)
 			(effects
 				(font
@@ -19422,7 +19422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 325.12 0)
 			(effects
 				(font
@@ -19501,7 +19501,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 410.5148 90.17 0)
 			(effects
 				(font
@@ -19710,7 +19710,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 153.67 0)
 			(effects
 				(font
@@ -20047,7 +20047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 55.88 0)
 			(effects
 				(font
@@ -20460,7 +20460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 187.96 0)
 			(effects
 				(font
@@ -20734,7 +20734,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 50.8 0)
 			(effects
 				(font
@@ -20878,7 +20878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 90.17 0)
 			(effects
 				(font
@@ -20957,7 +20957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 359.41 0)
 			(effects
 				(font
@@ -21036,7 +21036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 257.81 0)
 			(effects
 				(font
@@ -21180,7 +21180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 201.93 0)
 			(effects
 				(font
@@ -21842,7 +21842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 124.46 0)
 			(effects
 				(font
@@ -21928,7 +21928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 261.62 0)
 			(effects
 				(font
@@ -22016,7 +22016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 222.25 0)
 			(effects
 				(font
@@ -22095,7 +22095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 50.8 0)
 			(effects
 				(font
@@ -22172,7 +22172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 193.04 0)
 			(effects
 				(font
@@ -22325,7 +22325,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 316.23 187.96 0)
 			(effects
 				(font
@@ -22532,7 +22532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 158.75 0)
 			(effects
 				(font
@@ -22620,7 +22620,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "panel_custom:C_0402_1005Metric"
 			(at 382.5748 229.87 0)
 			(effects
 				(font
@@ -22697,7 +22697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 264.16 158.75 0)
 			(effects
 				(font
@@ -22783,7 +22783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 330.2 330.2 0)
 			(effects
 				(font
@@ -22871,7 +22871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 222.25 0)
 			(effects
 				(font
@@ -23275,7 +23275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 62.23 325.12 0)
 			(effects
 				(font
@@ -23354,7 +23354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 128.27 85.09 0)
 			(effects
 				(font
@@ -23561,7 +23561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "panel_custom:UCC27517_SOT-23-5"
 			(at 142.24 90.17 0)
 			(effects
 				(font
@@ -23649,7 +23649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 187.96 0)
 			(effects
 				(font
@@ -23728,7 +23728,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "panel_custom:C_0201_0603Metric"
 			(at 250.19 256.54 0)
 			(effects
 				(font

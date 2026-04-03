@@ -90,6 +90,6 @@
     "pdf_viewer_name": "",
     "text_editor": "",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/peter/Repositories/kicad/LED-Display_G6_Hardware_Panel/panel_rp2354_20x20_v0p2"
+    "working_dir": "/home/peter/Repositories/kicad/LED-Display_G6_Hardware_Panel"
   }
 }

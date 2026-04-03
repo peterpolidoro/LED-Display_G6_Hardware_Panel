@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "G6 panel 45mm RP2354")
-		(date "2026-04-02")
+		(date "2026-04-03")
 		(rev "v0.2.0")
 		(company "IORodeo for Reiserlab @ Janelia")
 	)

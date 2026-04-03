@@ -7,5 +7,11 @@
    "kicad-templates"
    "bash"
    "coreutils"
+   "diffutils"
+   "findutils"
+   "gawk"
    "git"
-   "make"))
+   "grep"
+   "make"
+   "ripgrep"
+   "sed"))

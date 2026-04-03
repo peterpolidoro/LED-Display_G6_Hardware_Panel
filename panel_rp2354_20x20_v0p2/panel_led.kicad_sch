@@ -6,7 +6,7 @@
 	(paper "User" 431.8 304.8)
 	(title_block
 		(title "G6 panel 45mm RP2354")
-		(date "2026-04-02")
+		(date "2026-04-03")
 		(rev "v0.2.0")
 		(company "IORodeo for Reiserlab @ Janelia")
 	)
@@ -26552,7 +26552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 82.042 53.34 90)
 			(effects
 				(font
@@ -28075,7 +28075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 64.262 53.34 90)
 			(effects
 				(font
@@ -29446,7 +29446,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 153.162 53.34 90)
 			(effects
 				(font
@@ -30741,7 +30741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 367.792 53.34 90)
 			(effects
 				(font
@@ -30972,7 +30972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 277.622 53.34 90)
 			(effects
 				(font
@@ -31051,7 +31051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 259.842 53.34 90)
 			(effects
 				(font
@@ -36602,7 +36602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 206.502 53.34 90)
 			(effects
 				(font
@@ -36757,7 +36757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 224.282 53.34 90)
 			(effects
 				(font
@@ -39496,7 +39496,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 117.602 53.34 90)
 			(effects
 				(font
@@ -41551,7 +41551,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 350.012 53.34 90)
 			(effects
 				(font
@@ -45582,7 +45582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 170.942 53.34 90)
 			(effects
 				(font
@@ -45661,7 +45661,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 330.962 53.34 90)
 			(effects
 				(font
@@ -46500,7 +46500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 28.702 53.34 90)
 			(effects
 				(font
@@ -46579,7 +46579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 188.722 53.34 90)
 			(effects
 				(font
@@ -47798,7 +47798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 99.822 53.34 90)
 			(effects
 				(font
@@ -50385,7 +50385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 46.482 53.34 90)
 			(effects
 				(font
@@ -52516,7 +52516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 242.062 53.34 90)
 			(effects
 				(font
@@ -56015,7 +56015,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 295.402 53.34 90)
 			(effects
 				(font
@@ -56702,7 +56702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 313.182 53.34 90)
 			(effects
 				(font
@@ -57009,7 +57009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "panel_custom:R_0201_0603Metric"
 			(at 135.382 53.34 90)
 			(effects
 				(font

@@ -504,7 +504,7 @@
     "version": 5
   },
   "netlist": {
-    "associate_by_ref_sch": false,
+    "associate_by_ref_sch": true,
     "delete_extra_footprints": false,
     "delete_shorting_tracks": false,
     "report_filter": 58,
@@ -591,7 +591,7 @@
       "/home/peter/Repositories/kicad/LED-Display_G6_Hardware_Panel/panel_rp2354_20x20_v0p2/panel_rp2354_20x20.kicad_pcb"
     ],
     "first_run_shown": false,
-    "last_footprint3d_dir": "",
+    "last_footprint3d_dir": "/gnu/store/dj89lcj2bjgp705yi0d4a5k51ygzaq8j-profile/share/kicad/3dmodels",
     "last_footprint_lib_dir": "",
     "last_imperial_units": 5,
     "last_metric_units": 1,
